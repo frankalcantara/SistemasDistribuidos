@@ -1,6 +1,6 @@
 # include <omp.h>
 # include <stdlib.h>
-# include <stdio.h>
+# include <stdio.h>															    
 
 //protótipos
 void prime_number_sweep(int n_lo, int n_hi, int n_factor);
