@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openMP-Exemplos", "openMP-E
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openMP-Exemplo-NumerosPrimos", "openMP-Exemplo-NumerosPrimos\openMP-Exemplo-NumerosPrimos.vcxproj", "{27FD1453-114A-4361-A9B3-4A7554110823}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openMP-Exemplo-Fibonacci", "openMP-Exemplo-Fibonacci\openMP-Exemplo-Fibonacci.vcxproj", "{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{27FD1453-114A-4361-A9B3-4A7554110823}.Release|x64.Build.0 = Release|x64
 		{27FD1453-114A-4361-A9B3-4A7554110823}.Release|x86.ActiveCfg = Release|Win32
 		{27FD1453-114A-4361-A9B3-4A7554110823}.Release|x86.Build.0 = Release|Win32
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Debug|x64.ActiveCfg = Debug|x64
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Debug|x64.Build.0 = Debug|x64
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Debug|x86.Build.0 = Debug|Win32
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Release|x64.ActiveCfg = Release|x64
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Release|x64.Build.0 = Release|x64
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Release|x86.ActiveCfg = Release|Win32
+		{C697BF9E-B07A-49F2-B5F8-6DEDE47C434E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
